@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerLine Test", "PowerLine Test.csproj", "{E6D90FA9-6D3B-4F33-BE06-4DCF27FA42ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6D90FA9-6D3B-4F33-BE06-4DCF27FA42ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D90FA9-6D3B-4F33-BE06-4DCF27FA42ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D90FA9-6D3B-4F33-BE06-4DCF27FA42ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D90FA9-6D3B-4F33-BE06-4DCF27FA42ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB4EC27B-8878-411A-9FD9-A8582691B498}
+	EndGlobalSection
+EndGlobal
